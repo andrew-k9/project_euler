@@ -1,0 +1,5 @@
+# Windows env/ build artifacts
+*.exe
+
+# Rust build artifacts
+*.pdb
